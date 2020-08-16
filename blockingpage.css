@@ -95,7 +95,7 @@ template { display: none; }
 [hidden] { display: none; }
 /* Normalize.css <=============================== */
 
-html { font-size: 62.5%; }
+html { font-size: 72.5%; }
 
 a { color: #3c8dbc; text-decoration: none; }
 a:hover { color: #72afda; text-decoration: underline; }

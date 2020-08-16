@@ -70,7 +70,7 @@ if ($serverName === "pi.hole"
             <img src='admin/img/logo.svg' alt='Pi-hole logo' width='256' height='377'>
             <br>
             <p><strong> نظام الشبكة الآمنـــة </strong>: يسمح النظام بإلغاء الإعلانات المزعجة داخل الشبكة </p>
-            <a href='/admin'> هل تريد الذهاب الى صفحة البداية انهر هنا </a>
+            <a href='/admin'> هل تريد الذهاب الى صفحة البداية أنقر هنا </a>
         </body>
     </html>
     ";
